@@ -1,2 +1,1 @@
-# openshift-gitops-lab
-openshift-gitops-lab
+# OpenShift GitOps Lab
